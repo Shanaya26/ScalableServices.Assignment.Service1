@@ -1,0 +1,15 @@
+com\product\app\service\Config\RestClientConfig.class
+com\product\app\service\ServiceApplication.class
+com\product\app\service\Service\WishlistService.class
+com\product\app\service\Service\ProductService.class
+com\product\app\service\Config\SwaggerConfig.class
+com\product\app\service\Controller\ProductController.class
+com\product\app\service\Controller\WishlistController.class
+com\product\app\service\Controller\UserController.class
+com\product\app\service\Config\SecurityConfig.class
+com\product\app\service\Repository\UserRepository.class
+com\product\app\service\Service\UserService.class
+com\product\app\service\Repository\ProductRepository.class
+com\product\app\service\Models\User.class
+com\product\app\service\Util\JwtUtil.class
+com\product\app\service\Models\Product.class
